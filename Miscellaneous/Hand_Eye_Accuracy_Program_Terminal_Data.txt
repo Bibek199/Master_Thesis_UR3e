@@ -1,0 +1,41 @@
+Image saved successfully
+Camera Stream Closed
+Number of contours 7
+2885.0
+Average color (RGB): (181.78211658177705, 107.10724391624223, 107.93718166383702, 0.0)
+3099.0
+Average color (RGB): (167.44238932686477, 25.659187386294725, 27.885688295936934, 0.0) 
+2521.0
+Average color (RGB): (18.0016835016835, 77.12255892255892, 40.46363636363637, 0.0) 
+3023.0
+Average color (RGB): (191.32073732718894, 145.75207373271888, 12.608294930875577, 0.0)
+2760.5
+Average color (RGB): (187.57130730050935, 116.67402376910017, 119.04187889077534, 0.0) 
+3080.0
+Average color (RGB): (146.22977272727272, 132.7693181818182, 39.495, 0.0)
+2730.0
+Average color (RGB): (155.2034521788342, 41.172608941709115, 47.405206564799094, 0.0)
+centroids calculation performed.
+Robot Connected State: 1
+No. of object centroids: 7
+Pick and Place Red Bricks in progress
+Moving to Pick and Place Sequence: 1
+Target cordinates wrt to UR3E_Base:  [ 344.16553115 -250.90163254    0.64906786]
+Target set for centroid: (483, 358)
+Pick and Place Sequence Completed: 1
+Pick and Place Red Bricks in progress
+Moving to Pick and Place Sequence: 2
+Target cordinates wrt to UR3E_Base:  [ 481.12508453 -155.93249315    4.65037897]
+Target set for centroid: (371, 198)
+Pick and Place Sequence Completed: 2
+Pick and Place Yellow Bricks in progress
+Moving to Pick and Place Sequence: 1
+Target cordinates wrt to UR3E_Base:  [402.25635687 -63.30063195   5.13358629]
+Target set for centroid: (263, 291)
+Pick and Place Sequence Completed: 1
+Pick and Place Yellow Bricks in progress
+Moving to Pick and Place Sequence: 2
+Target cordinates wrt to UR3E_Base:  [ 497.66867562 -259.35546349    2.95983881]
+Target set for centroid: (492, 178)
+Pick and Place Sequence Completed: 2
+All objects picked and successfully placed
