@@ -31,10 +31,10 @@ To save your time, I provide a small glimpse of topics covered in the project fo
 3. Camera Extrinsics Concept and Hand-eye-calibration (Code inc.)
 4. System Design (Software and Hardware Integration)
    <p align="center">
-  <img src="Miscellaneous/Software_setup.png" width="80%" height="250">
+  <img src="Miscellaneous/Software_Setup.png" width="80%" height="250">
 </p>
 <p align="center">
-  <img src="docs/voxelnext.png" width="80%" height="250">
+  <img src="Miscellaneous/Hardware_Integration.png" width="80%" height="250">
 </p>
 6. Conversion of 2D pixel co-ordinates to 3D World coordinates
 7. Image Processing Algorithm detailed explanation to reject defective objects on conveyor (Based on size, color and deficient bolts)
