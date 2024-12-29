@@ -14,13 +14,13 @@ It includes the design and integration of a conveyor system with the robot and c
 Below is the images for the digital twin setup and the original setup of the robotic cell. 
 
 <p align="center">
-  <img src="Miscellaneous/Digital Twin Setup.png" width="30%" height="250"> <img src="Miscellaneous/Real Setup.png" width="30%" height="250">
+  <img src="Miscellaneous/Digital Twin Setup.png" width="30%" height="220"> <img src="Miscellaneous/Real Setup.png" width="30%" height="250">
 </p>  
 
 Below shown is the concept flow chart for conversion of 2D pixel coordinates to 3D robot world coordinates.
 
 <p align="center">
-  <img src="Miscellaneous/2D_3D_Cordinate_Conversion.png" width="45%" height="250">
+  <img src="Miscellaneous/2D_3D_Cordinate_Conversion.png" width="45%" height="220">
 </p>
 
 Hereby, I share my Final report, Presentation and Complete code (include in the Final Report_Appendix) in this repopsitory for your reference to build up on project concept and carry out improvements and in case of any questions feel free to contact me.
@@ -53,10 +53,10 @@ To save your time, I provide a small glimpse of topics covered in the project fo
 Below is the Software and Hardware Integration flowchart for the designed robotic cell. 
 
 <p align="center">
-  <img src="Miscellaneous/Software_Setup.png" width="50%" height="250">
+  <img src="Miscellaneous/Software_Setup.png" width="50%" height="2250">
 </p>  
 <p align="center">
-  <img src="Miscellaneous/Hardware_Integration.png" width="50%" height="250">
+  <img src="Miscellaneous/Hardware_Integration.png" width="50%" height="225">
 </p>
 
 # Results for Different Scenarios
@@ -64,7 +64,7 @@ Below is the Software and Hardware Integration flowchart for the designed roboti
 1. Detection and Rejection based on Object Colour <br>
    **Threshhold value: Average RGB**
 <p align="center">
-  <img src="Miscellaneous/Scenario1.png" width="26%" height="225">
+  <img src="Miscellaneous/Scenario1.png" width="26%" height="210">
 </p>
 
 2. Detection and rejection based on Object Size <br>
@@ -78,13 +78,13 @@ Below is the Software and Hardware Integration flowchart for the designed roboti
 Stage 1: Detection of Objects <br>
    **Threshhold value: Color Mask and Contour Area**
 <p align="center">
-  <img src="Miscellaneous/Scenario2S1.png" width="20%" height="200">
+  <img src="Miscellaneous/Scenario2S1.png" width="20%" height="180">
 </p>
    
 Stage 2: Detection of Bolts <br>
    **Threshhold value: Color Mask and Bolt circle Approximation**
 <p align="center">
-  <img src="Miscellaneous/Scenario2S2.png" width="22%" height="300">
+  <img src="Miscellaneous/Scenario2S2.png" width="22%" height="280">
 </p>
 
 **Thank you for your time and don't forget to check out the video to see the project in action.** [Watch the video](./Inspection_Conveyor_UR3E_Integration_Video.mp4)  
