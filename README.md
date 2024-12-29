@@ -30,9 +30,9 @@ To save your time, I provide a small glimpse of topics covered in the project fo
 2. Camera Intrinsics Concept and its Calibration (Code inc.)
 3. Camera Extrinsics Concept and Hand-eye-calibration (Code inc.)
 4. System Design (Software and Hardware Integration)
-   <p align="center">
+<p align="center">
   <img src="Miscellaneous/Software_Setup.png" width="50%" height="250">
-</p>
+</p>  
 <p align="center">
   <img src="Miscellaneous/Hardware_Integration.png" width="50%" height="250">
 </p>
