@@ -1,10 +1,10 @@
 # Master_Thesis_UR3e
-Topic: Vision Guided 6-Axis Robotic Arm For Object Detection on a Conveyor Line
+**Topic: Vision Guided 6-Axis Robotic Arm For Object Detection on a Conveyor Line** <br>
 
-Universidad de Oviedo
-International Postgraduate Center
-Master in Mechatronics Engineering (EU4M)
-Defended on July 2024
+Universidad de Oviedo <br>
+International Postgraduate Center <br>
+Master in Mechatronics Engineering (EU4M) <br>
+Defended on July 2024 <br>
 
 This work presents an small industrial setup replica for inspection and rejection of objects on a conveyor line. It explains the stepwise calibration of an Intel RealSense L515 RGBD camera and Hand
 to Eye Calibration of a UR3E robot and accuracy validation based on practical tests. 
