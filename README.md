@@ -61,24 +61,35 @@ Below is the Software and Hardware Integration flowchart for the designed roboti
 
 # Results for Different Scenarios
 
-1. Detection and Rejection based on Object Colour
-   Threshhold value: Average RGB
-      <p align="center">
-  <img src="Miscellaneous/Hardware_Integration.png" width="50%" height="250">
-      </p>
+1. Detection and Rejection based on Object Colour <br>
+   **Threshhold value: Average RGB**
+<p align="center">
+  <img src="Miscellaneous/Scenario1.png" width="26%" height="225">
+</p>
 
+2. Detection and rejection based on Object Size <br>
+   **Threshhold value: Object contour Area**
+<p align="center">
+  <img src="Miscellaneous/Scenario2.png" width="15%" height="150">
+</p>
+
+3. Detection and rejection based on deficient bolts present on the object <br>
+
+   Stage 1: Detection of Objects <br>
+   **Threshhold value: Color Mask and Contour Area**
+<p align="center">
+  <img src="Miscellaneous/Scenario2S1.png" width="20%" height="200">
+</p>
    
-3. Detection and rejection based on Object Size
-   Threshhold value: Object contour Area
-5. Detection and rejection based on deficient bolts present on the object
+   Stage 2: Detection of Bolts <br>
+   **Threshhold value: Color Mask and Bolt circle Approximation**
+<p align="center">
+  <img src="Miscellaneous/Scenario2S2.png" width="22%" height="300">
+</p>
 
-   Stage 1: Detection of Objects
-   Threshhold value: Color Mask and Contour Area
+**Thank you for your time and don't forget to check out the video to see the project in action.** [Watch the video](./demo.mp4)  
 
-   Stage 2: Detection of Bolts
-   Threshhold value: Color Mask and Bolt circle Approximation
-
-Thank you and have a good day. 
+Have a good day! 
   
 
 
