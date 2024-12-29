@@ -11,6 +11,15 @@ to Eye Calibration of a UR3E robot and accuracy validation based on practical te
 
 It includes the design and integration of a conveyor system with the robot and cameragripper assembly to perform pick and place operation based on Image (2D) to World (3D) coordinate transformations and various image processing techniques. Three different conveyor inspection scenarios are replicated to detect the objects on the basis of size, color and deficient bolts and integrated on a single program with online visualization of results.
 
+Below is the images for the digital twin setup and the original setup of the robotic cell. 
+
+<p align="center">
+  <img src="Miscellaneous/Digital Twin Setup" width="50%" height="250"> <img src="Miscellaneous/Real Setup" width="50%" height="250">
+</p>  
+<p align="center">
+  <img src="Miscellaneous/Hardware_Integration.png" width="50%" height="250">
+</p>
+
 Hereby, I share my final report, presentation and complete code i this repopsitory for your reference to build up on project concept and carry out improvements and in case of any questions feel free to contact me.
 
 # Objectives
@@ -30,16 +39,17 @@ To save your time, I provide a small glimpse of topics covered in the project fo
 2. Camera Intrinsics Concept and its Calibration (Code inc.)
 3. Camera Extrinsics Concept and Hand-eye-calibration (Code inc.)
 4. System Design (Software and Hardware Integration)
+5. Conversion of 2D pixel co-ordinates to 3D World coordinates
+6. Image Processing Algorithm detailed explanation to reject defective objects on conveyor (Based on size, color and deficient bolts)
+7. Video 1: For Camera calibration accuracy check and Coordinate conversion (2D to 3D)
+8. Video 2: Final outcome showing the three different detection scenarios
+
 <p align="center">
   <img src="Miscellaneous/Software_Setup.png" width="50%" height="250">
 </p>  
 <p align="center">
   <img src="Miscellaneous/Hardware_Integration.png" width="50%" height="250">
 </p>
-6. Conversion of 2D pixel co-ordinates to 3D World coordinates
-7. Image Processing Algorithm detailed explanation to reject defective objects on conveyor (Based on size, color and deficient bolts)
-8. Video 1: For Camera calibration accuracy check and Coordinate conversion (2D to 3D)
-9. Video 2: Final outcome showing the three different detection scenarios
 
 Thank you and have a good day. 
   
