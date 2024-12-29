@@ -31,7 +31,7 @@ To save your time, I provide a small glimpse of topics covered in the project fo
 3. Camera Extrinsics Concept and Hand-eye-calibration (Code inc.)
 4. System Design (Software and Hardware Integration)
    <p align="center">
-  <img src="docs/voxelnext.png" width="80%" height="250">
+  <img src="Miscellaneous/Software_setup.png" width="80%" height="250">
 </p>
 <p align="center">
   <img src="docs/voxelnext.png" width="80%" height="250">
