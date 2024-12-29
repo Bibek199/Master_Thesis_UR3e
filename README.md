@@ -14,10 +14,10 @@ It includes the design and integration of a conveyor system with the robot and c
 Below is the images for the digital twin setup and the original setup of the robotic cell. 
 
 <p align="center">
-  <img src="Miscellaneous/Digital Twin Setup" width="50%" height="250"> <img src="Miscellaneous/Real Setup" width="50%" height="250">
+  <img src="Miscellaneous/Digital Twin Setup.png" width="50%" height="250"> <img src="Miscellaneous/Real Setup.png" width="50%" height="250">
 </p>  
 <p align="center">
-  <img src="Miscellaneous/Hardware_Integration.png" width="50%" height="250">
+  <img src="Miscellaneous/2D_3D_Cordinate_Conversion.png" width="50%" height="250">
 </p>
 
 Hereby, I share my final report, presentation and complete code i this repopsitory for your reference to build up on project concept and carry out improvements and in case of any questions feel free to contact me.
