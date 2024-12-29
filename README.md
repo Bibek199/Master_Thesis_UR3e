@@ -53,7 +53,7 @@ To save your time, I provide a small glimpse of topics covered in the project fo
 Below is the Software and Hardware Integration flowchart for the designed robotic cell. 
 
 <p align="center">
-  <img src="Miscellaneous/Software_Setup.png" width="50%" height="2250">
+  <img src="Miscellaneous/Software_Setup.png" width="50%" height="250">
 </p>  
 <p align="center">
   <img src="Miscellaneous/Hardware_Integration.png" width="50%" height="225">
